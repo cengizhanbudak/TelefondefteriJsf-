@@ -1,0 +1,41 @@
+body {
+    background-color: #88919a22;
+}
+
+h1 {
+    text-align: center;
+    color: #dc86e2;
+    margin-top: 11%;
+}
+
+.mainMenu {
+    padding-left: 45%;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.mainMenu ul li a {
+    color: red;
+    text-decoration: none;
+}
+.silbutonu{
+    background: palevioletred;
+    padding: 20px;
+    margin: 20px;
+    font-size:small;
+    FONT-WEIGHT: lighter;
+
+}
+
+h3{
+    text-align: center;
+    color:red;
+    margin-top: 11%;
+}
+.elele{
+    background: palevioletred;
+    padding: 20px;
+    margin: 20px;
+    font-size:large;
+    FONT-WEIGHT: lighter;
+}
